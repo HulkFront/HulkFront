@@ -6,4 +6,4 @@ to improve my knowledge as a developer. 😆
 
 - 📊 I’m currently working with Asp.Net MVC
 - 🎨 I’m currently learning React.js
-- 🚀 linkedin.com/in/glaubernaraujo/
+- 🚀 <a href="https://www.linkedin.com/in/glaubernaraujo/">Linkedin</a>
