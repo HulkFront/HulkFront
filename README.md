@@ -1,5 +1,5 @@
 ### Hello!!!😎
-I am a student of Software Engineering at PUCRS institution.
+I'm a student of Software Engineering at PUCRS institution.
 I'm currently a software developer at Cotabox 😆
 
 
