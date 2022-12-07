@@ -1,11 +1,10 @@
 ### Hello!!!😎
 I am a student of Software Engineering at PUCRS institution.
-Currently I decided to invest in Rocketseat's GoStack-bootcamp
-to improve my knowledge as a developer. 😆
+I'm currently a software developer at Cotabox 😆
 
 
-- 📊 I’m currently working with VueJs
-- 🎨 I’m currently learning React.js
+- 📊 I’m working with VueJs, ApolloServer, GraphQL, NodeJS, Moongose, MongoDB, Git!
+
 
 ##
 
