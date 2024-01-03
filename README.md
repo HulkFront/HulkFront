@@ -4,7 +4,7 @@ I'm currently a software developer at GC 😆
 
 
 - 📊 I’m working with VueJs, ApolloServer, ApolloClient, GraphQL, NodeJS, ODM Moongose, MongoDB NoSQL, Git!
-- 📊 I’m working with Nextjs, Reactjs, API Rest, JWT, NodeJS, PostgreSQL, Git!
+- 📊 I’m working with Nextjs, Reactjs, API Rest, JWT, NodeJS, Prisma, PostgreSQL, Git!
 
 
 
